@@ -45,7 +45,6 @@
         "civgrade",
         "converted_bay",
         "ground_support",
-		"pmm_compmods",
     ],
     "center": [
         93,
