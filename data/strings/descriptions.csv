@@ -1,3 +1,0 @@
-id,type,text1,text2,text3,notes
-pmm_mine_strike_frigate,SHIP_SYSTEM,Teleports a phase mine to the target area. The mine will slowly track nearby enemy ships and explodes a few seconds after its proximity trigger is activated. Can be used while phased.,Offensive,Teleports a heavy proximity mine to the target area. Can be used while phased.,
-pmm_degammofeed,SHIP_SYSTEM,Activates a makeshift jamming-prone - mechanism for quickly delivering ammo to the ship's ballistic weapon emplacements. The mechanism must be re-calibrated and cooled before it can be used again.,Offensive,Provides a flux cost reduction and a brief boost to the rate of fire of all ballistic weapons.,

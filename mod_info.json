@@ -5,10 +5,10 @@
     "utility":"false",
 	"version":"1.0",
 	"description":"A module for PMMM that rebalances vanilla pirates ships.",
-    "gameVersion": "0.97a-RC11",
+    "gameVersion": "0.98a-RC5",
 	"replace":[
 		#Ships
-
+		"data/hulls/skins/wolf_d_pirates.skin"
         #Variants
 		
 	],
